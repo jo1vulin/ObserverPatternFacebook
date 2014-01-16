@@ -1,0 +1,5 @@
+E:\Repos\FacebookGroup\FacebookGroup\bin\Debug\FacebookGroup.pdb
+E:\Repos\FacebookGroup\FacebookGroup\obj\Debug\FacebookGroup.pdb
+E:\Repos\FacebookGroup\FacebookGroup\obj\Debug\FacebookGroup.csprojResolveAssemblyReference.cache
+E:\Repos\FacebookGroup\FacebookGroup\bin\Debug\FacebookGroup.exe
+E:\Repos\FacebookGroup\FacebookGroup\obj\Debug\FacebookGroup.exe
