@@ -12,7 +12,6 @@ namespace FacebookGroup.Observer
         private string name;
         private List<WallPost> wallPosts = new List<WallPost>();
         private IDisposable cancellation;
-        private string fmt = "{0,-20} {1,5}  {2, 3}";
 
         public Subscriber(string name)
         {
